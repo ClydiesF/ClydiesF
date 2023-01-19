@@ -1,12 +1,12 @@
-### Hey I'm Clyde Freeman 🤚🏾
+## Hey I'm Clyde Freeman 🤚🏾 
+### Im a iOS Dev and SuperVillian 🦹🏾‍♂️
 
-I Currently work as an iOS developer and i enjoy bringing beautiful products to life. Im a developer who really beleives in the power of design and try to have my hand in both. i believe a product needs to looks as good as it functions. We need Both! Cuz we know ppl DO judge books by their cover. and in this case... if the app is ugly most ppl will leave it right there on the App Store. 
+I Currently work as an iOS developer and i enjoy bringing beautiful products to life. Im a developer who really believes in the power of design and try to have my hand in both. i believe a product needs to looks as good as it functions. We need Both! Cuz we know ppl DO judge books by their cover. and in this case... if the app is ugly most ppl will leave it right there on the App Store. A Beautiful app has the power to take over the world! 💥
 
 
-
-besides coding. i really enjoy haning out with friends, watching anime and superhero movies and spending time with my son Boomy!
-
-👨🏾‍💻I'm currently working on my personal passion project Hurd 🦬. Which is a Social Trip planning app. that aims to make the trip planning process FUN
+- 🌱: Exploring technical blogging more. i have a few articles on Medium.
+- 👨🏾‍💻: Im currently working on my Personal Passion project Hurd🦬. Which is a Social Trip Planning App , that aims to make the trip Planning Process Fun
+- 🥳: besides coding. i really enjoy hanging out with friends, watching anime and superhero movies and spending time with my son Boomy🧨 !
 
 
 <div id="header" align="center">
@@ -33,3 +33,10 @@ besides coding. i really enjoy haning out with friends, watching anime and super
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### 🔥 My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ClydiesF&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
